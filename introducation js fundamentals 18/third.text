@@ -1,0 +1,19 @@
+3: List and describe the five primitive data types in JavaScript.
+ans:-
+        Primitive Data Types
+Primitive data types are the built-in data types provided by JavaScript. They represent single values and are not mutable. JavaScript supports the following primitive data types:
+
+1.1 Number:
+Number data type in JavaScript can be used to hold decimal values as well as values without decimals.
+
+2 String:
+The string data type in JavaScript represents a sequence of characters that are surrounded by single or double quotes.
+
+.3 Undefined:
+This means that a variable has been declared but has not been assigned a value, or it has been explicitly set to the value `undefined`.
+
+.4 Boolean:
+The boolean data type can accept only two values i.e. true and false.
+
+.5 Null:
+This data type can hold only one possible value that is null.

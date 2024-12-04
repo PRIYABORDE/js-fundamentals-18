@@ -1,0 +1,28 @@
+4.What is the purpose of declaring variables in JavaScript, and how do you declare them using the
+'let' keyword?
+ans:-
+    Variables are used to store data in JavaScript so that we can later access the data. JavaScript is a dynamically typed language so the type of variables is decided at runtime. Therefore there is no need to explicitly define the type of a variable. We can declare variables in JavaScript in three ways:
+
+JavaScript var keyword
+JavaScript let keyword
+JavaScript const keyword 
+
+examples:-
+            <html>
+<body>
+<h1>JavaScript Variables</h1>
+
+<p>In this example, x, y, and z are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;
+let y = 6;
+let z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>

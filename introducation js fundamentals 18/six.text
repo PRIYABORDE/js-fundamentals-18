@@ -1,0 +1,19 @@
+6: Explain the importance of choosing meaningful and descriptive variable names in JavaScript.
+Provide an example where using a clear identifier improves code readability.
+ans:
+    These names should be clear and descriptive, making it easy for other developers (including your future self)
+     to understand the variable's role in the code:
+
+account - This variable name clearly indicates that it represents an account object. It's concise and meaningful.
+customerList - In this case, the variable name is a noun phrase that describes the contents of the variable. 
+totalAmount - When you see this variable name, it's evident that it holds the total amount of something in the 
+context of the code.
+
+int a = 10;
+int b = 20;
+int c = a + b;
+
+// Meaningful
+int firstNumber = 10;
+int secondNumber = 20;
+int sum = firstNumber + secondNumber;
